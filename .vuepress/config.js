@@ -32,23 +32,23 @@ module.exports = {
         "link": "/timeline/",
         "icon": "reco-date"
       },
-      {
-        "text": "留言板",
-        "icon": "reco-message",
-        "items": [
-          {
-            "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
-          }
-        ]
-      },
+      // {
+      //   "text": "留言板",
+      //   "icon": "reco-message",
+      //   "items": [
+      //     {
+      //       "text": "vuepress-reco",
+      //       "link": "/docs/theme-reco/"
+      //     }
+      //   ]
+      // },
       {
         "text": "关于我",
         "icon": "reco-message",
         "items": [
           {
             "text": "豆瓣",
-            "link": "https://github.com/recoluan",
+            "link": "https://www.douban.com/people/144112444/",
             "icon": "reco-github"
           }
         ]
@@ -91,9 +91,9 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "",
+    "author": "Rea",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
+    // "record": "xxxx",
     "startYear": "2021"
   },
   "markdown": {

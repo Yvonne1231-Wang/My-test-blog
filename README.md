@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: Rea's Blog
+tagline: 不爱抽象的共同体，只爱具体的人。
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

@@ -1,7 +1,8 @@
 module.exports = {
   "title": "雲朵收集手册",
   "description": "Something",
-  "dest": "public",
+  // "dest": "public",
+  "base":"/My-test-blog/",
   "head": [
     [
       "link",

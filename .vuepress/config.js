@@ -94,7 +94,8 @@ module.exports = {
     "author": "Rea",
     "authorAvatar": "/avatar.png",
     // "record": "xxxx",
-    "startYear": "2021"
+    "startYear": "2021",
+    "subSidebar": 'auto'//在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
   },
   "markdown": {
     "lineNumbers": true

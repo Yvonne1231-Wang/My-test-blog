@@ -6,8 +6,7 @@ tags:
 categories:
  -  JavaScript
 ---
-
-### 语法和使用
+## 语法和使用
 
 ``` javascript
 let myMap = new Map();
@@ -45,11 +44,11 @@ let otherNaN = Number("foo");
 myMap.get(otherNaN); // "not a number"
 ```
 
-### Objects 和 maps 的比较
+## Objects 和 maps 的比较
 Objects 和 Maps 类似的是，它们都允许你按键存取一个值、删除键、检测一个键是否绑定了值。因此（并且也没有其他内建的替代方式了）过去我们一直都把对象当成 Maps 使用。不过 Maps 和 Objects 有一些重要的区别，在下列情况里使用 Map 会是更好的选择：
 ![](./images/20210528map.png)
 
-### 方法
+## 方法
 
 ``` javascript
 clear
@@ -70,7 +69,7 @@ valueOf
     返回指定对象的原始值。
 
 ```
-### Map的迭代
+## Map的迭代
 
  - 使用 for..of 方法迭代 Map
    
@@ -109,7 +108,7 @@ myMap.forEach(function(value, key) {
 // 将会显示两个logs。 一个是 "0 = zero" 另一个是 "1 = one"
 ```
 
-参考
+## 参考
 
 > [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Map)
 
